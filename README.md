@@ -2,6 +2,8 @@
 
 A full-stack, Jira-inspired Project Management Web Application designed for teams to organize, track, and manage their work efficiently.
 
+🚀 **Live Demo**: [https://pms-project-six.vercel.app](https://pms-project-six.vercel.app)
+
 ## Features
 
 - **Secure Authentication**: JWT-based user authentication and authorization.
